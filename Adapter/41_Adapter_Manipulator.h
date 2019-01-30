@@ -1,0 +1,8 @@
+namespace Adapter
+{
+	class Manipulator
+	{
+
+	};
+}
+

@@ -1,0 +1,8 @@
+
+namespace StrategyNS
+{
+	class Component
+	{
+
+	};
+}

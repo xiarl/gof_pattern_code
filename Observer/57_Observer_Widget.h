@@ -1,0 +1,8 @@
+
+namespace ObserverNS
+{
+	class Widget
+	{
+
+	};
+}

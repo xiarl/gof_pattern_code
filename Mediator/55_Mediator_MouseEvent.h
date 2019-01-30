@@ -1,0 +1,8 @@
+
+namespace MediatorNS
+{
+	class MouseEvent
+	{
+
+	};
+}

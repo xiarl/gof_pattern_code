@@ -1,0 +1,8 @@
+
+namespace StateNS
+{
+	class TCPOctetStream
+	{
+
+	};
+}

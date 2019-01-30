@@ -1,0 +1,12 @@
+
+
+namespace CoR
+{
+	class Widget : public HelpHandler
+	{
+	protected:
+		Widget(Widget * parent, Topic t = NO_HELP_TOPIC);
+	private:
+		Widget * _parent;
+	};
+}

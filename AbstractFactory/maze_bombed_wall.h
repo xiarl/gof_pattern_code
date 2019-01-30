@@ -1,0 +1,5 @@
+
+class BombedWall : public Wall
+{
+
+};

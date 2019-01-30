@@ -1,0 +1,8 @@
+
+namespace MementoNS
+{
+	class State
+	{
+
+	};
+}

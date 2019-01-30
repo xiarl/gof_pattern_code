@@ -1,0 +1,8 @@
+
+namespace FlyWeightNS
+{
+	class BTree
+	{
+
+	};
+}

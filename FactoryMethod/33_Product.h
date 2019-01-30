@@ -1,0 +1,8 @@
+
+namespace FactoryMethod
+{
+	class Product
+	{
+
+	};
+}
